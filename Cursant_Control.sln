@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cursant_Control", "Cursant_Control\Cursant_Control.csproj", "{E0E8B85B-6A65-4D31-8901-99043FD740F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoCaptureLibrary", "..\WPFVideoCaptureLibrary\VideoCapture\VideoCaptureLibrary.csproj", "{59A669DE-9433-4D92-9AA2-17EAFDF5F187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ganjubus", "..\Winjubus\Ganjubus\Ganjubus.csproj", "{6929F1B7-F855-47C8-A0EA-9B7EE970268B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoystickXBOX", "..\JoystickXBOX\JoystickXBOX\JoystickXBOX.csproj", "{FE07495B-872B-422D-97F7-DFA0B641E82E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0E8B85B-6A65-4D31-8901-99043FD740F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E8B85B-6A65-4D31-8901-99043FD740F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E8B85B-6A65-4D31-8901-99043FD740F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E8B85B-6A65-4D31-8901-99043FD740F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A669DE-9433-4D92-9AA2-17EAFDF5F187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A669DE-9433-4D92-9AA2-17EAFDF5F187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A669DE-9433-4D92-9AA2-17EAFDF5F187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A669DE-9433-4D92-9AA2-17EAFDF5F187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6929F1B7-F855-47C8-A0EA-9B7EE970268B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6929F1B7-F855-47C8-A0EA-9B7EE970268B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6929F1B7-F855-47C8-A0EA-9B7EE970268B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6929F1B7-F855-47C8-A0EA-9B7EE970268B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE07495B-872B-422D-97F7-DFA0B641E82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE07495B-872B-422D-97F7-DFA0B641E82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE07495B-872B-422D-97F7-DFA0B641E82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE07495B-872B-422D-97F7-DFA0B641E82E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
